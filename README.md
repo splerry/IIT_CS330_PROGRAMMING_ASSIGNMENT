@@ -11,3 +11,9 @@ Download the attached ZIP file. Inside will be 2 programs labelled "security_eng
 
 Lock code: 901494
 Unlock code: 901491
+
+Sample output of Option 1 in program:
+"
+Average time: 58280 attempts/seconds. Total digits (0 - 9) entered: 303132622
+Largest value accepted: 991663719699014914829. Smallest value accepted: 3090149122472658670
+"
