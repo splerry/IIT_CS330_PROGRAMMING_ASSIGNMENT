@@ -7,14 +7,16 @@ Included are 2 executable files and 2 source code files. : 'security_engine_part
 
 to run:
 
-1) git 
+1) git clone https://github.com/splerry/IIT_CS330_PROGRAMMING_ASSIGNMENT.git
+2) cd IT_CS330_PROGRAMMING_ASSIGNMENT
+3) either ./security_engine_part1.exe or ./security_engine_part2.exe depending on which you are attempting to run. Please run both or run the first and see sample output for the second below for the whole assignment. Output will appear in git bash terminal.
 
 
 
 Lock code: 901494
 Unlock code: 901491
 
-Sample output of "security_engine_part2":
+Sample output of "security_engine_part2.exe":
 
 "
 Average time: 58280 attempts/seconds. Total digits (0 - 9) entered: 303132622
