@@ -11,9 +11,9 @@ The second executable will run 99 simulations of a brute force method of breakin
 
 to run:
 
-1) git clone https://github.com/splerry/IIT_CS330_PROGRAMMING_ASSIGNMENT.git
-2) cd IT_CS330_PROGRAMMING_ASSIGNMENT
-3) either ./security_engine_part1.exe or ./security_engine_part2.exe depending on which you are attempting to run. Please run both or run the first and see sample output for the second below for the whole assignment. Output will appear in git bash terminal.
+1) 'git clone https://github.com/splerry/IIT_CS330_PROGRAMMING_ASSIGNMENT.git'
+2) 'cd IIT_CS330_PROGRAMMING_ASSIGNMENT'
+3) either './security_engine_part1.exe' or './security_engine_part2.exe' depending on which you are attempting to run. Please run both or run the first and see sample output for the second below for the whole assignment. Output will appear in git bash terminal.
 
 
 
