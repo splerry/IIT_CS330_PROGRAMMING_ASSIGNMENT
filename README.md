@@ -25,10 +25,6 @@ to run in git bash, enter:
  
   ./security_engine_part2.exe
 
-to start unit test coverage, enter:
-
-  start unit tests
-
 Output will appear in git bash terminal. Or you may locate the foler which it is stored in and run the executable manually. If so, output will appear in the console.
 
 Lock code: 901494
