@@ -11,9 +11,13 @@ The 'security_engine_part2_source.py' file runs 99 simulations of a brute force 
 
 to run in git bash, enter:
 
-1) git clone https://github.com/splerry/IIT_CS330_PROGRAMMING_ASSIGNMENT.git
-2) cd IIT_CS330_PROGRAMMING_ASSIGNMENT
-3) ./security_engine_part1.exe
+  git clone https://github.com/splerry/IIT_CS330_PROGRAMMING_ASSIGNMENT.git
+  cd IIT_CS330_PROGRAMMING_ASSIGNMENT
+  ./security_engine_part1.exe
+
+to start unit test coverage, enter:
+
+  start unit tests
 
 Output will appear in git bash terminal. Or you may locate the foler which it is stored in and run the executable manually. If so, output will appear in the console.
 
