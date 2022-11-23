@@ -12,7 +12,9 @@ The 'security_engine_part2_source.py' file runs 99 simulations of a brute force 
 to run in git bash, enter:
 
   git clone https://github.com/splerry/IIT_CS330_PROGRAMMING_ASSIGNMENT.git
+  
   cd IIT_CS330_PROGRAMMING_ASSIGNMENT
+  
   ./security_engine_part1.exe
 
 to start unit test coverage, enter:
