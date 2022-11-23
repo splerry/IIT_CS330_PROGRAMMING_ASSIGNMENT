@@ -9,6 +9,8 @@ The security_engine_part1.exe executable takes user input (either one character 
 
 The security_engine_part2_source.exe executable runs a 10 trial test against the security engine using a brute force method. Simple launching the file as instructed above will activate its tests.
 
+NOTE BEFORE RUNNING: THE FILES ARE AUTOMATICALLY IN EXE FORM FOR CONVENIENCE
+
 to run in git bash, enter:
 
   git clone https://github.com/splerry/IIT_CS330_PROGRAMMING_ASSIGNMENT.git
